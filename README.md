@@ -1,4 +1,4 @@
-# Elements -A Chemical Notes
+# Elements -Notes on Chemistry
 
 Here are some notes for chemical elements that I'm compiling. I will work on the most common geological chemical elements, Ca, Mg, Al, K, Si, O, and etc.. but eventually it should include an importance majority. This project is currently on pause but will restart once I have most of my other functions and projects organized.
 
