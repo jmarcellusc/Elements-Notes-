@@ -4,6 +4,10 @@ Here are some notes for chemical elements that I'm compiling. I will work on the
 
 ---
 
+# Disclaimer
+These notes are intended to be a useful guide to the chemical elements. The information provided is for general educational purposes only and should be used with great caution. It is not a substitute for professional scientific advice, and the properties and behaviors of chemical elements can be highly complex and dangerous. Always consult authoritative sources and follow proper safety protocols when dealing with chemicals or conducting experiments.
+
+
 # List of Elements:
 
 ## Calcium
